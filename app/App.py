@@ -157,7 +157,7 @@ with tab2:
       st.write("LinkedIn [here](http://linkedin.com/in/kingsman-kushieme-49155a211), \n Github [here](https://github.com/Kingsmankek)")
    with col4:
       st.markdown('#### Victor Jokanola')
-      st.write("LinkedIn [here](https://www.linkedin.com/in/victor-jokanola-87b79a12a), \n Github [here]()")
+      st.write("LinkedIn [here](https://www.linkedin.com/in/victor-jokanola-87b79a12a), \n Github [here](https://github.com/)")
    col1, col2, col3, col4 = st.columns(4, gap = "small")
    with col1:
       st.markdown('#### Nurudeen Abdulsalaam')
@@ -177,13 +177,13 @@ with tab2:
       st.write("LinkedIn [here](https://www.linkedin.com/in/ajayi-daniel-7b9612252), \n Github [here](https://github.com/spydann)")
    with col2:
       st.markdown('#### Oladimeji Williams')
-      st.write("LinkedIn [here](), \n Github [here]()")
+      st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/)")
    with col3:
       st.markdown('#### M Meenakshi')
-      st.write("LinkedIn [here](), \n Github [here]()")
+      st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/)")
    with col4:
       st.markdown('#### Nahabwe Monica')
-      st.write("LinkedIn [here](), \n Github [here]())")		    
+      st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/))")		    
       
       
    
