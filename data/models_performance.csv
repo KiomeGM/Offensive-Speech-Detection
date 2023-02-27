@@ -1,0 +1,21 @@
+Tweet,Model Name,Output
+"He is a true hero, life saver and good man!",Random Forest,Neither
+As a woman you shouldn't complain about cleaning up your house.,Random Forest,Neither
+I can not just sit up and HATE on another bitch .. I got too much shit going on!,Random Forest,Offensive Language detected
+Keeks is a bitch she curves everyone  lol I walked into a conversation like this. Smh,Random Forest,Offensive Language detected
+"He is a true hero, life saver and good man!",Logistic Regression,Offensive Language detected
+As a woman you shouldn't complain about cleaning up your house.,Logistic Regression,Offensive Language detected
+I can not just sit up and HATE on another bitch .. I got too much shit going on!,Logistic Regression,Offensive Language detected
+Keeks is a bitch she curves everyone  lol I walked into a conversation like this. Smh,Logistic Regression,Offensive Language detected
+"He is a true hero, life saver and good man!",Logistic Regression,Neither
+As a woman you shouldn't complain about cleaning up your house.,Logistic Regression,Offensive Language detected
+I can not just sit up and HATE on another bitch .. I got too much shit going on!,Logistic Regression,Offensive Language detected
+Keeks is a bitch she curves everyone  lol I walked into a conversation like this. Smh,Logistic Regression,Offensive Language detected
+"He is a true hero, life saver and good man!",AdaBoost Classifier,Neither
+As a woman you shouldn't complain about cleaning up your house.,AdaBoost Classifier,Neither
+I can not just sit up and HATE on another bitch .. I got too much shit going on!,AdaBoost Classifier,Offensive Language detected
+Keeks is a bitch she curves everyone  lol I walked into a conversation like this. Smh,AdaBoost Classifier,Offensive Language detected
+"He is a true hero, life saver and good man!",LSTM,Offensive Language detected
+As a woman you shouldn't complain about cleaning up your house.,LSTM,Offensive Language detected
+I can not just sit up and HATE on another bitch .. I got too much shit going on!,LSTM,Offensive Language detected
+Keeks is a bitch she curves everyone  lol I walked into a conversation like this. Smh,LSTM,Neither
