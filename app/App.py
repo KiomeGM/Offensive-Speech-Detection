@@ -11,10 +11,6 @@ with open("app/models/Decision_Tree_Classifier.pkl", "rb") as pickle_file:
         dtc = pickle.load(pickle_file)
 with open("app/models/Logistic_Regression_Classifier.pkl", "rb") as pickle_file:
         lr = pickle.load(pickle_file)
-with open("app/models/LSTM.pkl", "rb") as pickle_file:
-        lstm = pickle.load(pickle_file)
-with open("app/models/tokenizer.pkl", "rb") as pickle_file:
-        tokenizer = pickle.load(pickle_file)
 with open("app/models/vectorizer.pkl", "rb") as pickle_file:
         vectorizer = pickle.load(pickle_file)
 models = [ada, dtc, lr]
