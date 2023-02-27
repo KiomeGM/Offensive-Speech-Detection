@@ -161,7 +161,7 @@ with tab2:
    col1, col2, col3, col4 = st.columns(4, gap = "small")
    with col1:
       st.markdown('#### Nurudeen Abdulsalaam')
-      st.write("LinkedIn [here](http://www.linkedin.com/in/nurudeenabdulsalaam), \n Github [here](https://github.com/KiomeGM/)")
+      st.write("LinkedIn [here](http://www.linkedin.com/in/nurudeenabdulsalaam), \n Github [here](https://github.com/nurudeenabdulsalaam)")
    with col2:
       st.markdown('#### Rhoda Arthur')
       st.write("LinkedIn [here](https://www.linkedin.com/in/rhoda-arthur-6a4348205/), \n Github [here](https://github.com/RhodyArthur)")
