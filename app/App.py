@@ -148,7 +148,7 @@ with tab2:
    col1, col2, col3, col4 = st.columns(4, gap = "small")
    with col1:
       st.markdown('#### Rogers Mugambi')
-      st.write("LinkedIn: [link] (https://www.linkedin.com/in/rogers-mugambi/)")
+      st.markdown("LinkedIn: [link] (https://www.linkedin.com/in/rogers-mugambi/)")
       st.write("GitHub: [link] (https://github.com/KiomeGM/)")
    with col2:
       st.markdown('#### Vimagh Solomon')
