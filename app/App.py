@@ -146,21 +146,56 @@ with tab2:
    # if selectedImageUrl is not None:
    #    st.image(selectedImageUrl)
    col1, col2, col3, col4 = st.columns(4, gap = "small")
-   
-   imagesList = [
-               "https://s.yimg.com/ny/api/res/1.2/C9KF4A9AhR9MVOVXFiQXoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtjZj13ZWJw/https://o.aolcdn.com/images/dar/5845cadfecd996e0372f/34bd965fb8bab32b796e4cd6074fda470adfab8e/aHR0cDovL28uYW9sY2RuLmNvbS9kaW1zLXNoYXJlZC9kaW1zMy9HTE9CL2Nyb3AvMjQwM3gxNjAwKzArMzA5L3Jlc2l6ZS82NDB4NDI2IS9mb3JtYXQvanBnL3F1YWxpdHkvODUvaHR0cDovL28uYW9sY2RuLmNvbS9oc3Mvc3RvcmFnZS9taWRhcy85MzYwOTMzYjI3MWE4YzMxMzg5ZWVjM2M1MzVmY2EzNi8yMDIwNzg2NTYvQllDMTM2LmpwZw==",
-                  ]
-   members = [
-            "member"
-               ]
    with col1:
-      st.image(imagesList[0], caption = members[0], use_column_width = 'always')
+	st.markdown('## Rogers Mugambi)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/rogers-mugambi/)")
+	st.write("GitHub: [link] (https://github.com/KiomeGM/)")
    with col2:
-      st.image(imagesList[0], caption = members[0], use_column_width = 'always')
+	st.markdown('## Vimagh Solomon)
+	st.write("LinkedIn: [link] (http://www.linkedin.com/in/vimagh-solomon-92a84197)")
+	st.write("GitHub: [link] (github.com/vimagh/gits)")
    with col3:
-      st.image(imagesList[0], caption = members[0], use_column_width = 'always')
+	st.markdown('## Kushieme Kingsman)
+	st.write("LinkedIn: [link] (http://linkedin.com/in/kingsman-kushieme-49155a211)")
+	st.write("GitHub: [link] (https://github.com/Kingsmankek)")
    with col4:
-      st.image(imagesList[0], caption = members[0], use_column_width = 'always')
+	st.markdown('## Victor Jokanola)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/victor-jokanola-87b79a12a)")
+	st.write("GitHub: [link] ()")
+   col1, col2, col3, col4 = st.columns(4, gap = "small")
+   with col1:
+	st.markdown('## Nurudeen Abdulsalaam)
+	st.write("LinkedIn: [link] (http://www.linkedin.com/in/nurudeenabdulsalaam)")
+	st.write("GitHub: [link] (https://github.com/KiomeGM/)")
+   with col2:
+	st.markdown('## Rhoda Arthur)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/rhoda-arthur-6a4348205/)")
+	st.write("GitHub: [link] (https://github.com/RhodyArthur)")
+   with col3:
+	st.markdown('## Yaswanth Teja Yarlagadda)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/yaswanthteja)")
+	st.write("GitHub: [link] (https://github.com/yaswanthteja)")
+   with col4:
+	st.markdown('## Ketul Patel)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/ketul-patel-1a323914b)")
+	st.write("GitHub: [link] (https://github.com/ketul6559)")
+col1, col2, col3, col4 = st.columns(4, gap = "small")
+   with col1:
+	st.markdown('## Ajayi Daniel)
+	st.write("LinkedIn: [link] (https://www.linkedin.com/in/ajayi-daniel-7b9612252)")
+	st.write("GitHub: [link] (https://github.com/spydann)")
+   with col2:
+	st.markdown('## Oladimeji Williams)
+	st.write("LinkedIn: [link] ()")
+	st.write("GitHub: [link] ()")
+   with col3:
+	st.markdown('## M Meenakshi)
+	st.write("LinkedIn: [link] ()")
+	st.write("GitHub: [link] ()")
+   with col4:
+	st.markdown('## Nahabwe Monica)
+	st.write("LinkedIn: [link] ()")
+	st.write("GitHub: [link] ()")		    
       
       
    
