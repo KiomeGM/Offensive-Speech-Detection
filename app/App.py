@@ -177,10 +177,10 @@ with tab2:
       st.write("LinkedIn [here](https://www.linkedin.com/in/ajayi-daniel-7b9612252), \n Github [here](https://github.com/spydann)")
    with col2:
       st.markdown('#### Oladimeji Williams')
-      st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/)")
+      st.write("LinkedIn [here(https://www.linkedin.com/in/williamsoladimeji), \n Github [here](https://github.com/)")
    with col3:
       st.markdown('#### M Meenakshi')
-      st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/)")
+      st.write("LinkedIn [here](https://www.linkedin.com/in/m-meenakshi-892269234), \n Github [here](https://github.com/Meena-30/)")
    with col4:
       st.markdown('#### Nahabwe Monica')
       st.write("LinkedIn [here](https://www.linkedin.com/), \n Github [here](https://github.com/))")		    
